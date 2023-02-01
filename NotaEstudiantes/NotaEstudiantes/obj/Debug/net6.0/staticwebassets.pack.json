@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NotaEstudiantes.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NotaEstudiantes.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\22fefbb6-f52d-4295-89de-4bbb1e44749e_actriz-stefanie-scott_2880x1800_xtrafondos.com.jpg",
+      "PackagePath": "staticwebassets\\images\\22fefbb6-f52d-4295-89de-4bbb1e44749e_actriz-stefanie-scott_2880x1800_xtrafondos.com.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\27327a6c-8385-49ce-8939-5feb6c0ede12_avion2.jpg",
+      "PackagePath": "staticwebassets\\images\\27327a6c-8385-49ce-8939-5feb6c0ede12_avion2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\3e842f85-c04f-4d92-a0b7-d9d767e6c339_avion2.jpg",
+      "PackagePath": "staticwebassets\\images\\3e842f85-c04f-4d92-a0b7-d9d767e6c339_avion2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\4554dff4-151b-4555-9be7-bfb275cb8761_avion.jpg",
+      "PackagePath": "staticwebassets\\images\\4554dff4-151b-4555-9be7-bfb275cb8761_avion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\4e790f0e-7312-4cd9-936e-4fa2aa003ea1_rob.jpg",
+      "PackagePath": "staticwebassets\\images\\4e790f0e-7312-4cd9-936e-4fa2aa003ea1_rob.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\4f34a70b-0676-4d71-a3f1-5c517211c166_johan.jpg",
+      "PackagePath": "staticwebassets\\images\\4f34a70b-0676-4d71-a3f1-5c517211c166_johan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\5f8f36e9-d461-42b1-a8c4-81e45f0c86d5_avion.jpg",
+      "PackagePath": "staticwebassets\\images\\5f8f36e9-d461-42b1-a8c4-81e45f0c86d5_avion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\7b560c25-3aa7-4386-bc02-bf192d4bd6bd_igor.jpg",
+      "PackagePath": "staticwebassets\\images\\7b560c25-3aa7-4386-bc02-bf192d4bd6bd_igor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\97039366-2c8a-4e95-a631-e89ed63db2d3_avion.jpg",
+      "PackagePath": "staticwebassets\\images\\97039366-2c8a-4e95-a631-e89ed63db2d3_avion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\a88dc2f5-a87c-4b42-b241-1b7fc5e403ca_marisol.jpg",
+      "PackagePath": "staticwebassets\\images\\a88dc2f5-a87c-4b42-b241-1b7fc5e403ca_marisol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\c1065145-00c4-4f61-bacf-7c579bc5c5dd_avion.jpg",
+      "PackagePath": "staticwebassets\\images\\c1065145-00c4-4f61-bacf-7c579bc5c5dd_avion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\c1d5889e-4358-4094-9143-232b4c528886_marisol.jpg",
+      "PackagePath": "staticwebassets\\images\\c1d5889e-4358-4094-9143-232b4c528886_marisol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\d58b5f91-1bf7-4ebe-b135-015ec7f7fbcf_igor.jpg",
+      "PackagePath": "staticwebassets\\images\\d58b5f91-1bf7-4ebe-b135-015ec7f7fbcf_igor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\df5da0ff-7df5-49e6-9e6d-669befe80cdb_re.png",
+      "PackagePath": "staticwebassets\\images\\df5da0ff-7df5-49e6-9e6d-669befe80cdb_re.png"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\images\\eff00b1b-a601-498c-8a5f-3240458b7cbe_marisol.jpg",
+      "PackagePath": "staticwebassets\\images\\eff00b1b-a601-498c-8a5f-3240458b7cbe_marisol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Marisol\\Downloads\\Examen final\\Examen final\\NotaEstudiantes\\NotaEstudiantes\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NotaEstudiantes.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NotaEstudiantes.props",
+      "PackagePath": "build\\NotaEstudiantes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NotaEstudiantes.props",
+      "PackagePath": "buildMultiTargeting\\NotaEstudiantes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NotaEstudiantes.props",
+      "PackagePath": "buildTransitive\\NotaEstudiantes.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,48 @@
+﻿@model NotaEstudiantes.Models.VMLogin
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/NotaEstudiantes.styles.css" asp-append-version="true" />
+</head>
+<body>
+    
+        <form class="mt-4 text-center" asp-controller="Access" asp-action="Login" method="post">
+            <h1 class="text-center text-3x1">Login</h1>
+            <div><label for="email">Email</label></div>
+            <div class="mb-3">
+                <input class="w-full" type="email" placeholder="Email" asp-for="Email" />
+            </div>
+            <div><label for="password">Password</label></div>
+            <div class="mb-3">
+                <input class="w-full" type="password" placeholder="Password" asp-for="Password" />
+            </div>
+            <div class="mb-3">
+                <label>
+                    <input type="checkbox" asp-for="KeepLoggedIn" />
+                    Keep me logged In.
+                </label>
+            </div>
+            <div class="mb-3">
+                <button class="btn btn-primary" type="submit">Ingresar</button>
+            </div>
+
+            @if (ViewData["ValidateMessage"] != null )
+            {
+                <br />
+                <br />
+                <label>@ViewData["ValidateMessage"]</label>
+            }
+
+        </form>
+</body>
+</html>

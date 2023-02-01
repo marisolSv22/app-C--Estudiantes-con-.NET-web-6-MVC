@@ -1,0 +1,58 @@
+﻿@model NotaEstudiantes.Models.Instructor
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Instructor</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NombreInstructor" class="control-label"></label>
+                <input asp-for="NombreInstructor" class="form-control" />
+                <span asp-validation-for="NombreInstructor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Direccion" class="control-label"></label>
+                <input asp-for="Direccion" class="form-control" />
+                <span asp-validation-for="Direccion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Matreria" class="control-label"></label>
+                <input asp-for="Matreria" class="form-control" />
+                <span asp-validation-for="Matreria" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefono" class="control-label"></label>
+                <input asp-for="Telefono" class="form-control" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdJornada" class="control-label"></label>
+                <select asp-for="IdJornada" class ="form-control" asp-items="ViewBag.IdJornada"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdEstudianteI" class="control-label"></label>
+                <select asp-for="IdEstudianteI" class ="form-control" asp-items="ViewBag.IdEstudianteI"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdMateriaI" class="control-label"></label>
+                <select asp-for="IdMateriaI" class ="form-control" asp-items="ViewBag.IdMateriaI"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
